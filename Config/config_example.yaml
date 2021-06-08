@@ -1,0 +1,31 @@
+####################################################################################
+#
+#    Custom Vision Operalization
+#
+#    Microsoft
+# 
+####################################################################################
+#
+#   Custom Vision
+# 
+####################################################################################
+cv:
+  TrainingEndpoint: 
+  TrainingKey: 
+  ProjectID: 
+  PredictionEndpoint:
+  PredictionKey: 
+  ProjectID: 
+  ModelName: 
+  PredictionResource: 
+  
+####################################################################################
+#
+#    Azure Storage - Blob
+# 
+####################################################################################
+azure_storage:
+  container_name: 
+  storage_name: 
+  conn_string: 
+  sas_token: 

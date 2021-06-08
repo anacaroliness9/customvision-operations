@@ -1,0 +1,31 @@
+####################################################################################
+#
+#    Custom Vision Operalization
+#
+#    Microsoft
+# 
+####################################################################################
+#
+#   Custom Vision
+# 
+####################################################################################
+cv:
+  TrainingEndpoint: https://cmcustomvision.cognitiveservices.azure.com/
+  TrainingKey: 8b5460f998a74816ad0f4d5c662defa7
+  ProjectID: b58b8486-1acd-4236-aa29-b9d4ac2ce906
+  PredictionEndpoint: https://cmcustomvision-prediction.cognitiveservices.azure.com/
+  PredictionKey: a53272898c6545a7a8d3f8b5a5d4ee5c
+  ProjectID: 3e6f4584-04cf-405a-8478-7332115d0a99
+  ModelName: v0
+  PredictionResource: /subscriptions/8d47f388-3a7a-4970-9dec-2c6cc53e02a9/resourceGroups/rg_chihuahua_muffin/providers/Microsoft.CognitiveServices/accounts/cmcustomvision-prediction
+  
+####################################################################################
+#
+#    Azure Storage - Blob
+# 
+####################################################################################
+azure_storage:
+  container_name: 
+  storage_name: 
+  conn_string: 
+  sas_token: 
