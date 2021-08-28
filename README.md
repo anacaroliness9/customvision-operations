@@ -1,8 +1,8 @@
 # Custom Vision Operations
 
-***Applying Devops to Custom Vision Project***
+***Operalizating and applying continuous learning to Custom Vision***
 
-In this workshop you will learn how to create a Custom Vision project with code (Python), how to get the evaluation metrics from your Custom Vision trained model with the Custom Vision SDK and sckit-learn, how to deploy, how to send alerts with your model do not perform well and how use the good predictions to re-feed your model re-train your model to continuously improve it. All this applying Devops.
+In this workshop you will learn how to create a Custom Vision project with code (Python), how to get the evaluation metrics from your Custom Vision trained model with the Custom Vision SDK and sckit-learn, how to deploy, how to send alerts with your model do not perform well and how use the good predictions to re-feed your model re-train your model to continuously improve it. 
 
 <br>
 <br>
@@ -12,20 +12,20 @@ In this workshop you will learn how to create a Custom Vision project with code 
 <!-- TOC -->
 
 - [Custom Vision Operations](#custom-vision-operations)
-    - [References](#references)
-    - [Architecture](#architecture)
-    - [Services](#services)
-    - [Lab Prerequisites and Deployment](#lab-prerequisites-and-deployment)
-    - [Labs](#labs)
-        - [Lab 1: Custom Vision Project](#lab-1-custom-vision-project)
-            - [Task 1: Project Creation](#task-1-project-creation)
-            - [Task 2: Image Tag Creation](#task-2-image-tag-creation)
-            - [Task 3: Images Upload](#task-3-images-upload)
-            - [Task 4: Train](#task-4-train)
-            - [Task 5: Model Evaluation](#task-5-model-evaluation)
-            - [Task 6: Model Endpoint Deployment](#task-6-model-endpoint-deployment)
-        - [Lab 2: Model Performance Monitoring](#lab-2-model-performance-monitoring)
-        - [Lab 3: Applying Devops](#lab-3-applying-devops)
+  - [References](#references)
+  - [Architecture](#architecture)
+  - [Services](#services)
+  - [Lab Prerequisites and Deployment](#lab-prerequisites-and-deployment)
+  - [Labs](#labs)
+    - [Lab 1: Custom Vision Project](#lab-1-custom-vision-project)
+      - [Task 1: Project Creation](#task-1-project-creation)
+      - [Task 2: Image Tag Creation](#task-2-image-tag-creation)
+      - [Task 3: Images Upload](#task-3-images-upload)
+      - [Task 4: Train](#task-4-train)
+      - [Task 5: Model Evaluation](#task-5-model-evaluation)
+      - [Task 6: Model Endpoint Deployment](#task-6-model-endpoint-deployment)
+    - [Lab 2: Continous Learning](#lab-2-continous-learning)
+    - [Lab 3: Operalizating](#lab-3-operalizating)
 
 <!-- /TOC -->
 
@@ -45,7 +45,7 @@ TBD
 | Azure Storage - Blob        | https://docs.microsoft.com/pt-br/azure/storage/blobs/                     |
 | Custom Vision | https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/ |
 | Key Vault   | https://azure.microsoft.com/pt-br/services/key-vault/luis/           |
-| Azure Devops            | https://azure.microsoft.com/pt-br/services/devops/search/                            |
+| Azure Data Factory            | https://azure.microsoft.com/en-us/services/data-factory/                            |
 | Azure Functions            | https://azure.microsoft.com/pt-br/services/functions/search/                            |
 
 <br>
@@ -67,10 +67,10 @@ TBD
 <br>
 <br>
 
-### Lab 2: Model Performance Monitoring
+### Lab 2: Continous Learning
 TBD
 <br>
 <br>
 
-### Lab 3: Applying Devops
+### Lab 3: Operalizating
 TBD
