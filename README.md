@@ -12,22 +12,29 @@ In this workshop you will learn how to create a Custom Vision project with code 
 <!-- TOC -->
 
 - [Custom Vision Operations](#custom-vision-operations)
-  - [Architecture](#architecture)
-  - [Services](#services)
-  - [Lab Prerequisites and Deployment](#lab-prerequisites-and-deployment)
-  - [Labs](#labs)
-    - [Lab 1: Custom Vision Project](#lab-1-custom-vision-project)
-      - [Task 1: Project Creation](#task-1-project-creation)
-      - [Task 2: Image Tag Creation](#task-2-image-tag-creation)
-      - [Task 3: Images Upload](#task-3-images-upload)
-      - [Task 4: Train](#task-4-train)
-      - [Task 5: Model Evaluation](#task-5-model-evaluation)
-      - [Task 6: Model Endpoint Deployment](#task-6-model-endpoint-deployment)
-    - [Lab 2: Model Performance Monitoring](#lab-2-model-performance-monitoring)
-    - [Lab 3: Applying Devops](#lab-3-applying-devops)
+    - [References](#references)
+    - [Architecture](#architecture)
+    - [Services](#services)
+    - [Lab Prerequisites and Deployment](#lab-prerequisites-and-deployment)
+    - [Labs](#labs)
+        - [Lab 1: Custom Vision Project](#lab-1-custom-vision-project)
+            - [Task 1: Project Creation](#task-1-project-creation)
+            - [Task 2: Image Tag Creation](#task-2-image-tag-creation)
+            - [Task 3: Images Upload](#task-3-images-upload)
+            - [Task 4: Train](#task-4-train)
+            - [Task 5: Model Evaluation](#task-5-model-evaluation)
+            - [Task 6: Model Endpoint Deployment](#task-6-model-endpoint-deployment)
+        - [Lab 2: Model Performance Monitoring](#lab-2-model-performance-monitoring)
+        - [Lab 3: Applying Devops](#lab-3-applying-devops)
 
 <!-- /TOC -->
 
+## References
+  * Custom Vision Portal: [https://www.customvision.ai/](https://www.customvision.ai/)
+  * SDK: [https://docs.microsoft.com/pt-br/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python](https://docs.microsoft.com/pt-br/azure/cognitive-services/custom-vision-service/quickstarts/image-classification?tabs=visual-studio&pivots=programming-language-python)
+  * APIs:
+    - Custom Vision Training: [https://westus2.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Training_3.3/](https://westus2.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Training_3.3/)
+    - Custom Vision Prediction: [https://eastus.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Prediction_3.1/](https://eastus.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Prediction_3.1/)
 
 ## Architecture
 TBD

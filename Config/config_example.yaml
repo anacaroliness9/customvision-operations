@@ -3,22 +3,7 @@
 #    Custom Vision Operalization
 #
 #    Microsoft
-# 
-####################################################################################
-#
-#   Custom Vision
-# 
-####################################################################################
-cv:
-  TrainingEndpoint: 
-  TrainingKey: 
-  ProjectID: 
-  PredictionEndpoint:
-  PredictionKey: 
-  ProjectID: 
-  ModelName: 
-  PredictionResource: 
-  
+#   
 ####################################################################################
 #
 #    Azure Storage - Blob
@@ -29,3 +14,17 @@ azure_storage:
   storage_name: 
   conn_string: 
   sas_token: 
+####################################################################################
+#
+#   Custom Vision
+# 
+####################################################################################
+cv:
+  ProjectName: 'fruit-classifier'
+  Threshold: 0.8
+  TrainingEndpoint: 
+  TrainingKey: 
+  PredictionEndpoint: 
+  PredictionKey: 
+  PredictionResource: 
+  ProjectID: 
